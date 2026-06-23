@@ -27,7 +27,6 @@ Some interactive notebook outputs were converted to static images to ensure full
 
 ## Usage
 Clone the repository:
-https://github.com/Chen-Terese/Masters-Thesis
 git clone https://github.com/Chen-Terese/Masters-Thesis.git
 
 
