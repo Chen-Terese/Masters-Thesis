@@ -27,12 +27,12 @@ Some interactive notebook outputs were converted to static images to ensure full
 
 ## Usage
 Clone the repository:
-git clone https://github.com/your-username/repo-name.git
+https://github.com/Chen-Terese/Masters-Thesis
+git clone https://github.com/Chen-Terese/Masters-Thesis.git
+
 
 Install dependencies:
 pip install -r requirements.txt
 
 Run the notebooks in Jupyter Notebook or Google Colab.
 
-* Citation format (IEEE/APA)
-* DOI-style project header (very clean for GitHub portfolios)
