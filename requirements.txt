@@ -1,0 +1,11 @@
+# Main packages used by the notebooks. Pin versions from `pip freeze` in the Colab runtime you used.
+tensorflow
+numpy
+pandas
+scikit-learn
+scikit-image
+matplotlib
+seaborn
+pillow
+lime
+gradio
